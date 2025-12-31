@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abraham Guan
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/abraham-guan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abraham_guan@berkeley.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/AbrahamWG" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -27,12 +27,12 @@
 
 ### Highlighted Projects
 
-- **[IShowStream](https://github.com/yourusername/ishowstream)** – Real-time Twitch chat analysis platform with 5 AI agents processing 1000+ messages/minute (Python, Go, Gemini, Cloud Run, WebSockets).
-- **[Smart GitHub Documentation Agent](https://github.com/yourusername/smart-docs)** – AI-powered tool generating multi-level documentation for any GitHub repo, 60% faster with parallel processing (Python, FastAPI, React, Gemini API, Docker).
-- **[Stockbit FAQ Chatbot](https://github.com/yourusername/stockbit-chatbot)** – Fine-tuned Llama3 customer support bot handling 1000+ daily queries with 90%+ satisfaction (Python, Flask, NLP).
-- **[Cook County Housing Prediction](https://github.com/yourusername/housing-prediction)** – ML model exposing assessment bias across 204K+ properties with custom fairness metrics (Python, Scikit-learn, SQL).
+- **[IShowStream](https://github.com/AbrahamWG/ishowstream)** – Real-time Twitch chat analysis platform with 5 AI agents processing 1000+ messages/minute (Python, Go, Gemini, Cloud Run, WebSockets).
+- **[Smart GitHub Documentation Agent](https://github.com/AbrahamWG/smart-docs)** – AI-powered tool generating multi-level documentation for any GitHub repo, 60% faster with parallel processing (Python, FastAPI, React, Gemini API, Docker).
+- **[Stockbit FAQ Chatbot](https://github.com/AbrahamWG/stockbit-chatbot)** – Fine-tuned Llama3 customer support bot handling 1000+ daily queries with 90%+ satisfaction (Python, Flask, NLP).
+- **[Cook County Housing Prediction](https://github.com/AbrahamWG/housing-prediction)** – ML model exposing assessment bias across 204K+ properties with custom fairness metrics (Python, Scikit-learn, SQL).
 - **[Jam.AI](https://devpost.com/software/jam-ai)** – GPT-powered diabetes health assistant generating personalized meal plans (Python, GPT-3.5).
-- **[Email Spam Detection](https://github.com/yourusername/spam-detection)** – Logistic regression filter achieving 93% accuracy with 15+ engineered features (Python, Scikit-learn).
+- **[Email Spam Detection](https://github.com/AbrahamWG/spam-detection)** – Logistic regression filter achieving 93% accuracy with 15+ engineered features (Python, Scikit-learn).
 
 ---
 
@@ -53,6 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+---
+
+### GitHub Stats
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamWG&show_icons=true&hide_rank=true&theme=tokyonight)
 
 ---
 
