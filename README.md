@@ -12,9 +12,7 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
-**Data Science @ UC Berkeley (4.0 GPA) | Software Engineer @ Umbo Energy**
+**Data Science @ UC Berkeley | Software Engineer @ Umbo Energy**
 
 ---
 
@@ -55,11 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-### GitHub Stats
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamWG&show_icons=true&hide_rank=true&theme=tokyonight)
 
 ---
 
