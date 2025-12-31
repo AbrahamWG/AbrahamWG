@@ -56,11 +56,6 @@
 
 ---
 
-### GitHub Stats
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamWG&show_icons=true&hide_rank=true&theme=tokyonight)
-
----
-
 ### Let's Connect!
 - <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
 - abraham_guan@berkeley.edu
