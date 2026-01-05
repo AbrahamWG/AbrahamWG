@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**Data Science @ UC Berkeley 
+**Data Science @ UC Berkeley**
 
 ---
 
