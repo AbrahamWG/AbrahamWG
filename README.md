@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**Data Science @ UC Berkeley | Software Engineer @ Umbo Energy**
+**Data Science @ UC Berkeley 
 
 ---
 
@@ -21,7 +21,7 @@
 - Passionate about **Reinforcement Learning, Multi-Agent Systems, and Full-Stack AI Development**
 - Originally from Jakarta, Indonesia 🇮🇩 → now in Berkeley, CA 🇺🇸
 - Former AI Engineer @ Stockbit (8M+ users)
-- Coffee enthusiast ☕ & home baker 🥐
+- Coffee enthusiast ☕ 
 
 ---
 
